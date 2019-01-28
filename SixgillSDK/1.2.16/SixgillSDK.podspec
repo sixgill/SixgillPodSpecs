@@ -27,7 +27,7 @@ s.license      = { :type => "Copyright", :text => "Sixgill" }
   # s.watchos.deployment_target = "2.0"
   # s.tvos.deployment_target = "9.0"
 
-  s.source = { :http => "https://raw.githubusercontent.com/sixgill/sense-docs/master/ios/sixgill-ios-sdk-1.2.15.zip" }
+  s.source = { :http => "https://raw.githubusercontent.com/sixgill/sense-docs/master/ios/sixgill-ios-sdk-1.2.16.zip" }
 
   s.vendored_frameworks = "SixgillSDK/SixgillSDK.framework"
 
